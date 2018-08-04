@@ -1,0 +1,5 @@
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Debug\AcessoBancoDadosFireBird.dll
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Debug\AcessoBancoDadosFireBird.pdb
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Debug\AcessoBancoDadosFireBird.csprojResolveAssemblyReference.cache
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Debug\AcessoBancoDadosFireBird.dll
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Debug\AcessoBancoDadosFireBird.pdb

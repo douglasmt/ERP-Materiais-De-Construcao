@@ -1,0 +1,14 @@
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.dll.config
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.dll
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.pdb
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDadosFireBird.dll
+C:\Users\Doug\documents\visual studio 2017\Projects\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDadosFireBird.pdb
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.dll.config
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.dll
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\bin\Release\AcessoBancoDadosFireBird.pdb
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDadosFireBird.dll
+C:\Visual Studio\Construcao\AcessoBancoDadosFireBird\obj\Release\AcessoBancoDadosFireBird.pdb
